@@ -44,7 +44,8 @@ body {
 .content {
 	background-image:url('drake.jpg');
 	background-repeat:no-repeat;
-	height: 550px;
+	background-position: center;
+	height: 864px;
 	margin: 0px auto;
 
 }
