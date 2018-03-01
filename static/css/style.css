@@ -1,0 +1,92 @@
+html {
+	font-family: arial black;
+	background-color:black;
+	color:#A3915D;
+	padding:0;
+}
+
+body {
+	height:100%;
+	width:100%;
+}
+
+.header {
+	height:130px;
+}
+
+.button {
+	color:#A3915D;
+	margin:auto;
+	text-align: center;
+	width:1400px;
+	font-size: 60pt;
+}
+
+.aboutheader {
+	color:#A3915D;
+	margin:auto;
+	text-align: center;
+	width:1400px;
+	font-size: 72px;
+}
+
+.button:hover {
+	/*border:1px solid #A3915D;*/
+	color:#DBBF72;
+}
+
+.buttonlink {
+	text-decoration: none;
+	text-align: center;
+	color:#A3915D;
+}
+
+.content {
+	background-image:url('drake.jpg');
+	background-repeat:no-repeat;
+	background-position: center;
+	height: 864px;
+	margin: 0px auto;
+
+}
+
+.response {
+	font-size:30px;
+	text-align:center;
+	width:800px;
+	margin:auto;
+}
+
+.footer {
+	position: fixed;
+	bottom: 10px;
+	width:100%;
+	text-align: center;
+}
+
+.line {
+	border-color:#A3915D;
+}
+
+.aboutlink {
+	text-align: center;
+	color:#A3915D;
+	font-size:25px;
+	margin: 0;
+	margin-top: -10px;
+}
+
+.aboutlink:hover {
+	text-decoration: underline;
+}
+
+.spotify {
+	position: fixed;
+	bottom: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.songtitle {
+	font-style: italic;
+}
